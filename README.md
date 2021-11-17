@@ -29,7 +29,7 @@ inputs:
   where the mouse pointer is currently standing
 - Mouse wheel **up** and **down**: Zooms in and out the canvas.
 
-| ![space-1.jpg](docs/images/golipy-zoom-out.png) | ![space-1.jpg](docs/images/golipy-zoom-out.png) |
+| ![space-1.jpg](docs/images/golipy-zoom-out.png) | ![space-1.jpg](docs/images/golipy-zoom-in.png) |
 |:--:|:--:| 
 | *Zooming out the canvas* | *Zooming in the canvas* |
 
